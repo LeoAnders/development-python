@@ -5,8 +5,6 @@ def validateInt(question, min, max):
         option = int(input(question))
    return option     
 
-import os
-
 def createArchive(fileName):
     try:
         game = open(fileName, "wt+")
