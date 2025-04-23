@@ -1,4 +1,7 @@
-Este repositório contém anotações, exercícios e exemplos do meu aprendizado da linguagem Python.
+<h2 align="center">Python</h2>
+
+Este repositório contém anotações, exercícios e projetos relacionados ao meu aprendizado em Python. Aqui compartilho exemplos práticos, projetos e conceitos que estou explorando.
+
 
 ## Roadmap de Estudo
 
@@ -23,7 +26,7 @@ Minha base teórica está sendo construída a partir de fontes como documentaç�
 Lista de projetos práticos que estou desenvolvendo
 
 
-## Anotações e Exercícios
+## Estrutura do Repositório
 
 O repositório está organizado da seguinte maneira:
 - `Fundamentals/` Conceitos básicos da linguagem, como sintaxe, variáveis, tipos de dados, controle de fluxo, funções e módulos.
