@@ -25,17 +25,6 @@ Minha base teórica está sendo construída a partir de fontes como documentaç�
 - [Formação em Python na Rocketseat](https://www.rocketseat.com.br/formacao/python)
   - Curso focado em projetos práticos com aplicação direta dos conceitos.
 
-
-## Conteúdo Estudado
-
-- [x] Sintaxe básica
-- [x] Tipos de dados (str, int, float, bool)
-- [x] Estruturas de controle (if, for, while)
-- [ ] Funções
-- [ ] Listas, Tuplas e Dicionários
-- [ ] Manipulação de arquivos
-
-
 ## Projetos em Python
 
 Lista de projetos práticos que estou desenvolvendo
