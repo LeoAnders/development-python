@@ -14,12 +14,10 @@ Estou seguindo o seguinte roadmap para guiar meus estudos, você pode acompanhar
 Minha base teórica está sendo construída a partir de fontes como documentação oficial, artigos, cursos e vídeos
 
 #### Documentação Oficial
-- [The Python Tutorial](https://docs.python.org/3.13/tutorial/)  
-  - Estou utilizando como referência principal para entender a sintaxe, tipos de dados, controle de fluxo, funções, módulos e orientação a objetos
+- [The Python Tutorial](https://docs.python.org/3.13/tutorial/): Estou utilizando como referência principal para entender a sintaxe, tipos de dados, controle de fluxo, funções, módulos e orientação a objetos
 
 #### Formação em Python
-- [Formação em Python na Rocketseat](https://www.rocketseat.com.br/formacao/python)
-  - Curso focado em projetos práticos com aplicação direta dos conceitos.
+- [Formação em Python na Rocketseat](https://www.rocketseat.com.br/formacao/python): Curso focado em projetos práticos com aplicação direta dos conceitos.
 
 ## Projetos em Python
 
