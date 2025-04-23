@@ -1,6 +1,6 @@
 <h2 align="center">Python</h2>
 
-Este repositório contém anotações, exercícios e projetos relacionados ao meu aprendizado em Python. Aqui compartilho exemplos práticos, projetos e conceitos que estou explorando.
+Este repositório contém anotações, exercícios e projetos relacionados a Python. Aqui compartilho exemplos práticos, projetos e conceitos que estou explorando.
 
 
 ## Roadmap de Estudo
