@@ -15,7 +15,7 @@ Estou seguindo o seguinte roadmap para guiar meus estudos, você pode acompanhar
 Minha base teórica está sendo construída a partir de fontes como documentação oficial, artigos, cursos e vídeos
 
 #### Documentação Oficial
-- [Tutorial Oficial do Python (em Português)](https://docs.python.org/pt-br/3/tutorial/)  
+- [The Python Tutorial](https://docs.python.org/3.13/tutorial/)  
   - Estou utilizando como referência principal para entender a sintaxe, tipos de dados, controle de fluxo, funções, módulos e orientação a objetos
 
 #### Formação em Python
