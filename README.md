@@ -1,8 +1,4 @@
-# Estudo de Python
-
 Este repositório contém anotações, exercícios e exemplos do meu aprendizado da linguagem Python.
-
-
 
 ## Roadmap de Estudo
 
